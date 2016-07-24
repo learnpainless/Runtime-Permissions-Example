@@ -1,11 +1,11 @@
-"# Runtime-Permissions-Example" 
+#Runtime Permissions Example Android 6.0 Marshmallow
 
 This is example of how to embed Runtime permissions in your new or existing apps easily.
 
 here is Video for this demo
 
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/4djdNBbnaFE" frameborder="0" allowfullscreen></iframe>
+[YouTybe link for more complex example of runtime permissions](https://www.youtube.com/embed/4djdNBbnaFE)
 
 here is link for more complex example of runtime permissions.
 
-<a href="https://learnpainless.com/android/marshmallows/runtime-permission-example-good-practice-real-example">link for more complex example of runtime permissions </a>
+[link for more complex example of runtime permissions](https://learnpainless.com/android/marshmallows/runtime-permission-example-good-practice-real-example)
