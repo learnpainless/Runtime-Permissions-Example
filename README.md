@@ -4,7 +4,7 @@ This is example of how to embed Runtime permissions in your new or existing apps
 
 here is Video for this demo
 
-[YouTybe link for more complex example of runtime permissions](https://www.youtube.com/embed/4djdNBbnaFE)
+[YouTube link for more complex example of runtime permissions](https://www.youtube.com/embed/4djdNBbnaFE)
 
 here is link for more complex example of runtime permissions.
 
